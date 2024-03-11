@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CellInfo_200827</string>
+    <string name="detail">detail</string>
+    <string name="sort">sort</string>
+    <string name="reset">reset</string>
+    <string name="export">export</string>
+    <string name="record">record</string>
+    <string name="new_session">new</string>
+    <string name="prev_session">prev</string>
+    <string name="next_session">next</string>
+    <string name="type">type</string>
+    <string name="enb">enb</string>
+    <string name="lcid">lcid</string>
+    <string name="dbm">dbm</string>
+    <string name="ta">ta</string>
+    <string name="cnt">cnt</string>
+    <string name="session">session:</string>
+    <string name="start">start:</string>
+    <string name="stop">stop:</string>
+</resources>
